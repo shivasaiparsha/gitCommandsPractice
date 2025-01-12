@@ -6,5 +6,6 @@ public class GitCommandsPractice {
         System.out.println("adding code to existing commit");
         System.out.println("added new commit");
         System.out.println("switched cherry pic branch");
+        System.out.println("revert");
     }
 }
