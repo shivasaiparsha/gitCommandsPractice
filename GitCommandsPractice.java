@@ -3,5 +3,6 @@ public class GitCommandsPractice {
         System.out.println("git comit --amend ");
         System.out.println("adding code to existing commit");
         System.out.println("added new commit");
+        System.out.println("switched cherry pic branch");
     }
 }
